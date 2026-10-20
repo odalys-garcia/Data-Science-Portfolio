@@ -110,7 +110,7 @@ Demand history ─► Demand-history encoder ───────────�
 
 | | v2 | v4 |
 |---|---|---|
-| MAPE, extreme vs non-extreme | ![v2 MAPE extreme vs non-extreme](error_figures/figures_v2/mape_extreme_vs_normal.png) | ![v4 MAPE extreme vs non-extreme](error_figures/figure_4/mape_extreme_vs_normal.png) |
+| MAPE, extreme vs non-extreme | ![v2 MAPE extreme vs non-extreme](error_figures/figures_v2/mape_extreme_vs_normal.png) | ![v4 MAPE extreme vs non-extreme](error_figures/figure_v4/mape_extreme_vs_normal.png) |
 | Bias by zone | ![v2 bias by zone](error_figures/figures_v2/bias_by_zone.png) | ![v4 bias by zone](error_figures/figure_v4/bias_by_zone.png) |
 
 Full analysis, including results by horizon, hour of day and weather combination, and limitations: [project summary](energy_demand_prediction_project_summary.pdf).
