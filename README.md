@@ -33,17 +33,17 @@ MS in Mathematics (Tufts, 2026). I work at the intersection of rigorous quantita
 
 **Result:** 7 of 20 collection days is the minimum, but timing matters: only 52 of 77,520 possible 7-day schedules (0.0067%) allow both key parameters to be estimated reliably.
 
-📄 [Summary](experimental-design/summary.pdf) · 💻 [Code](experimental-design/)
+📄 [Summary](experimental-design/Minimally_Sufficient_Experimental_Design_Using_Mathematical_Modeling.pdf) · 💻 [Code](experimental-design/)
 
 ---
 
 ## Publications & Research
-- [Paper title], *Journal*, Year. [DOI link]
-- [Paper title], *Journal*, Year. [DOI link]
-- [Identifiability catalog](https://github.com/[your-username]/[repo-name]) — [one-line description]
+- [Fronts and patterns with a dynamic ramp], *Physica D: Nonlinear Phenomena*, 2025. [https://doi.org/10.1016/j.physd.2025.134972]
+- [Identifiability of Directed-Cycle and Catenary Linear Compartmental Models], * SIAM Journal of Applied Dynamical Systems*, 2026. [https://doi.org/10.1137/25M1728636]
+- [Identifiability catalog](https://github.com/[odalys-garcia]/[Identifiability-of-Directed-Cycle-and-Catenary-Linear-Compartmental-Models]) — [PDF and TXT files that store the identifiability of parameters in various models]
 
 ## Tools
 Python (PyTorch, scikit-learn, pandas) · MATLAB · SQL · Git
 
 ## Contact
-[LinkedIn] · [email]
+[LinkedIn](linkedin.com/in/odalys-garcia-lopez-844072420/) · [email](odalysgl1202@gmail.com)
