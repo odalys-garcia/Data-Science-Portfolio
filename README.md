@@ -1,6 +1,6 @@
 # Odalys Garcia-Lopez — Data Science Portfolio
 
-MS in Mathematics (Tufts, 2026). I work at the intersection of rigorous quantitative methods and applied modeling, with a focus on healthcare and life-science problems. Each project below has a one-page summary and, where shareable, the code.
+MS in Mathematics (Tufts, 2026). I work at the intersection of rigorous quantitative methods and applied modeling, with a focus on healthcare and life-science problems. Each project below has a summary and, where shareable, the code.
 
 ---
 
